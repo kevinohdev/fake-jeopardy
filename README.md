@@ -13,6 +13,3 @@ I wanted to build a mini game featuring a reactive and easy to use UI.
 
 It was challenging but satisfying to find the right fonts and colors for each box, as well as sanitizing the data from the API to remove unncessary characters from the questions.  
 
-
-
-# fake-jeopardy
